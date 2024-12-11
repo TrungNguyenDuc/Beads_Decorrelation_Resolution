@@ -97,7 +97,7 @@ decorrelation.to_csv('results.csv')
 
 The code was used to evaluate the Autofocusing system for OPM microscopy as shown in the paper:
 
-- Nguyen, T. D., Rahmani, A., Ponjavic, A., Millett-Sikking, A., & Fiolka, R. (2024). Active Remote Focus Stabilization in Oblique Plane Microscopy. bioRxiv (https://doi.org/10.1101/2024.11.29.626121).
+- Nguyen, T. D., Rahmani, A., Ponjavic, A., Millett-Sikking, A., & Fiolka, R. (2024). **Active Remote Focus Stabilization in Oblique Plane Microscopy**. bioRxiv (https://doi.org/10.1101/2024.11.29.626121).
 
 The code implements methods based on the paper:
 
